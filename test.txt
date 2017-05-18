@@ -1,2 +1,2 @@
 ﻿this is a test
-this is in branch dev and in feature1 in master
+this is in branch dev and in feature1 in master and in master
